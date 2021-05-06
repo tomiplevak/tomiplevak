@@ -1,11 +1,34 @@
-### Hi [Tomas Plevak][website] here 👋
+### Hello World 👋 I’m [Tomas Plevak][website]!
 
-![Twitter Follow](https://img.shields.io/twitter/follow/tomiplevak?color=1DA1F2&logo=twitter&style=for-the-badge)
+<a href="https://linkedin.com/in/tomas-plevak/">
+<img align="left" alt="Tomas Plevak LinkedIn" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
+</a>
+<a href="https://www.instagram.com/tomiplevak/">
+<img align="left" alt="Tomas Plevak Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
+</a>
 
-### Frontend Developer
+<br />
 
-- 🔭 I am currently out of work but looking for my first IT job.
-- 🌱 I’m currently learning <b>JavaScript and Data Structures</b>.
+## Frontend Developer JR
+- 📌 I am currently looking for my first IT job.
+- 📚 I’m learning about <b>Front End Development Libraries</b>.
+- 📑 My lasts certificates are: [<b>Rensponsive Web Design</b>][HTML-CSS.certificate] and [<b>JavaScript Algorithms and Data Structures</b>][JS.certificate].
+- 🎧 Music🌋 Travels and 📷 Photography are some of my favourite hobbies. 
 - 📫 How to reach me: <b> tomiplevak@hotmail.com</b>
 
+<br />
+
+## Languages and Tools
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+
+
+---
 [website]: https://tomiplevak.github.io/
+[HTML-CSS.certificate]: https://www.freecodecamp.org/certification/tomiplevak/responsive-web-design
+[JS.certificate]: https://www.freecodecamp.org/certification/tomiplevak/javascript-algorithms-and-data-structures
+
+![Tomas Plevak's github stats](https://github-readme-stats.vercel.app/api?username=tomiplevak&show_icons=true&hide_border=true)
