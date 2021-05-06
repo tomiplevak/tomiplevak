@@ -7,6 +7,8 @@
 <img align="left" alt="Tomas Plevak Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
 </a>
 
+<img align="right" alt="GIF" src="./vallerojo.jpg" width="240px" />
+
 <br />
 
 ## Frontend Developer JR
