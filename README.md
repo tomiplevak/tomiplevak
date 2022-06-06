@@ -12,7 +12,7 @@
 <br />
 
 ## Frontend Developer JR
-- 📌 I am currently looking for my first IT job.
+- 📌 I am currently working for IBM as Application Developer JR.
 - 📚 I’m learning about <b>Front End Development Libraries</b>.
 - 📑 My lasts certificates are: [<b>Rensponsive Web Design</b>][HTML-CSS.certificate] and [<b>JavaScript Algorithms and Data Structures</b>][JS.certificate].
 - 🎧 Music🌋 Travels and 📷 Photography are some of my favourite hobbies. 
