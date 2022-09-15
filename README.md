@@ -11,7 +11,7 @@
 
 <br />
 
-## Frontend Developer JR
+## Frontend Developer
 - 📌 I am currently working for IBM as Application Developer JR. Working with PL/SQL and Unix - ShellScript.
 - 📚 I’m learning about <b>AWS, TypeScript and Node Js</b>.
 - 🎧 Music🌋 Travels and 📷 Photography are some of my favourite hobbies. 
