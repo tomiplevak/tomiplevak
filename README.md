@@ -12,8 +12,7 @@
 <br />
 
 ## Frontend Developer
-- 📌 I am currently working for IBM as Application Developer JR. Working with PL/SQL and Unix - ShellScript.
-- 📚 I’m learning about <b>AWS, TypeScript and Node Js</b>.
+- 📌 I am currently working for DataInt Mexico as Frontend Engineer. Working with Next Js, Typescript and Tailwind CSS.
 - 🎧 Music🌋 Travels and 📷 Photography are some of my favourite hobbies. 
 - 📫 How to reach me: <b> tomiplevak@hotmail.com</b>
 
